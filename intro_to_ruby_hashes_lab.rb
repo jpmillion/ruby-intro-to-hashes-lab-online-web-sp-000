@@ -7,7 +7,7 @@ def actor
 end
 
 def monopoly
-	monopoly = {railroads: {}}
+	return monopoly = {railroads: {}}
 
 end
 
